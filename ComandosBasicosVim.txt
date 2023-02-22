@@ -1,0 +1,15 @@
+Comandos básicos Vim
+
+comando-función
+
+i -Para acceder al modo inserción.
+v -Para simplemente acceder al modo visual.
+V -Acceder al modo Línea visual.
+Ctrl+v - Entrar en modo Bloque visual.
+:-Para acceder al modo comando.
+Shift+r -Permite acceder al modo reemplazar.
+ESC -Para salir de los modos inserción, visual y comando y acceder al modo normal.
+:w-Guarda los cambios realizados al documento actual.
+:w nombre_fichero - Guarda el documento actual en un nuevo fichero. Es equivalente a guardar como.
+:wq o :x o shift + z + z - Comando que guarda los cambios y cierra el fichero que estamos editando
+

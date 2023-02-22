@@ -1,0 +1,3 @@
+Ansible 
+
+Ansible se conecta a los nodos y les inserta pequeños programas denominados módulos, los cuales permiten realizar tareas de automatización en la plataforma. Luego ejecuta esos programas, que funcionan como modelos de recurso del estado deseado de los sistemas, y los retira cuando finaliza la tarea.
